@@ -41,6 +41,12 @@ Todo esto es de acceso libre en la web.
 - **Si una fuente no responde, se degrada, no se inventa.** Antes un hueco que
   un número que no se ha medido.
 
+## Código abierto
+
+| | |
+|---|---|
+| **[snowy-wp](https://github.com/snowy-es/snowy-wp)** | Plugin de WordPress con shortcodes y bloques de datos en vivo: estaciones, extremos, lluvia, rachas, avisos de AEMET, calidad del aire, polen y calima. GPLv2 |
+
 ## Integraciones
 
 La API de Snowy (`api.snowy.es`) no es abierta: se accede con clave, con cuota
